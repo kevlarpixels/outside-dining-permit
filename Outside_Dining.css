@@ -54,7 +54,30 @@
     margin-top: 50px;
 }
 
+
+.section-body-middle {
+    text-align: center;
+}
+
+
+.linkTo {
+    text-decoration: none;
+    color: #2D9CCA;
+}
+
+.linkTo:hover{
+    color: #ffffff;
+}
+
 .first-block {
+    padding-left: 140px;
+    padding-right: 140px;
+    background-color: #474866;
+    color: #A9ABB8;
+}
+
+.first-block-index {
+    height: 100%;
     padding-left: 140px;
     padding-right: 140px;
     background-color: #474866;
@@ -133,6 +156,7 @@ li {
         background-color: #25274D;
         color: #A9ABB8;   
         font-size: 18px;    
+        text-align: center;
         
     }
     
