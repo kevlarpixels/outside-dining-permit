@@ -78,8 +78,6 @@
 
 .first-block-index {
     height: 100%;
-    padding-left: 140px;
-    padding-right: 140px;
     background-color: #474866;
     color: #A9ABB8;
 }
@@ -209,6 +207,7 @@ li {
         text-align: center;
     }
     
+
     .second-block {
         padding-left: 10%;
         padding-right: 10%;
